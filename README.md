@@ -1,4 +1,4 @@
-# WORD-FREQUENCY-USING-MAPREDUCE
+# WORD FREQUENCY USING MAPREDUCE
 
 Implemented Mapper and Reducer logic separately in python code to mimic MapReduce operation to identify the most and least frequent words in the book <b>Pride and Prejudice</b>. Book present as <b>Pride_and_Prejudice.txt</b> textfile in the repository.  
   
